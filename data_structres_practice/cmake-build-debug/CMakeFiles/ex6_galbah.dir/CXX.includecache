@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/galba/CLionProjects/ex6-galbah/Dictionary.hpp
+HashMap.hpp
+/mnt/c/Users/galba/CLionProjects/ex6-galbah/HashMap.hpp
+
+/mnt/c/Users/galba/CLionProjects/ex6-galbah/HashMap.hpp
+iostream
+-
+vector
+-
+cmath
+-
+
+/mnt/c/Users/galba/CLionProjects/ex6-galbah/test_ex6.cpp
+HashMap.hpp
+/mnt/c/Users/galba/CLionProjects/ex6-galbah/HashMap.hpp
+Dictionary.hpp
+/mnt/c/Users/galba/CLionProjects/ex6-galbah/Dictionary.hpp
+iostream
+-
+utility
+-
+sstream
+/mnt/c/Users/galba/CLionProjects/ex6-galbah/sstream
+

@@ -1,0 +1,3 @@
+/mnt/c/Users/galba/CLionProjects/ex6-galbah/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/galba/CLionProjects/ex6-galbah/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/galba/CLionProjects/ex6-galbah/cmake-build-debug/CMakeFiles/ex6_galbah.dir

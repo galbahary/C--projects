@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ex6_galbah.dir/test_ex6.cpp.o  -o ex6_galbah 
