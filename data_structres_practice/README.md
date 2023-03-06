@@ -1,1 +1,1 @@
-# ex6-galbah
+# creating a dictionary and a hashmap using data structres
