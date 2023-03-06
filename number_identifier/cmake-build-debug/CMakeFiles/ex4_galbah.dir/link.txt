@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ex4_galbah.dir/Activation.cpp.o CMakeFiles/ex4_galbah.dir/Dense.cpp.o CMakeFiles/ex4_galbah.dir/main.cpp.o CMakeFiles/ex4_galbah.dir/Matrix.cpp.o CMakeFiles/ex4_galbah.dir/MlpNetwork.cpp.o  -o ex4_galbah 
